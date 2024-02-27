@@ -1,8 +1,8 @@
 # Movie_Assist
 
-A movie assistant for when you don't know what you want to watch next.
+## A movie assistant for when you don't know what you want to watch next.
 
-Key points:
+## Key points:
 
 Works for both movies and TV shows.
 
@@ -16,7 +16,7 @@ Features a "Surprise Me" option for a well-rated (from another platform) random 
 
 Includes a friend system where you can add friends and jointly discover a movie you'll both like.
 
-Rating options are still under consideration, such as:
+### Rating options are still under consideration, such as:
 -Amazing, nice to watch, meh, not for me, terrible
 -Good, meh, bad
 -Rating on a scale of 1-5.
