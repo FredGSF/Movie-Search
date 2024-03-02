@@ -14,7 +14,7 @@ Keeps you informed about release dates of movie sequels or new seasons of shows 
 
 Features a "Surprise Me" option for a well-rated (from another platform) random movie.
 
-Includes a friend system where you can add friends and jointly discover a movie you'll both like.
+Includes a friend system where you can add friends and jointly discover a movie you'll both like. 
 
 ### Rating options are still under consideration, such as:
 
