@@ -18,7 +18,7 @@ Includes a friend system where you can add friends and jointly discover a movie 
 
 ### Rating options are still under consideration, such as:
 
--Amazing, nice to watch, meh, not for me, terrible
+-Amazing, nice to watch, meh, not for me, terrible 
 
 -Good, meh, bad
 
