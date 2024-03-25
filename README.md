@@ -2,7 +2,7 @@
  
 ## A movie assistant for when you don't know what you want to watch next.
   
-## Key points: 
+## Key points:
  
 Works for both movies and TV shows. 
 
