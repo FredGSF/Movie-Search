@@ -1,6 +1,6 @@
 # Movie_Assist
  
-## A movie assistant for when you don't know what you want to watch next. 
+## A movie assistant for when you don't know what you want to watch next.  
      
 ## Key points:   
      
