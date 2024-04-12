@@ -6,7 +6,7 @@
  
 Works for both movies and TV shows.
    
-Takes into consideration the ratings of movies/TV shows you've watched. 
+Takes into consideration the ratings of movies/TV shows you've watched.
  
 Maintains a folder for watched movies and TV shows, including your ratings.
 
