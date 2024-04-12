@@ -3,7 +3,7 @@
 ## A movie assistant for when you don't know what you want to watch next. 
   
 ## Key points: 
- 
+
 Works for both movies and TV shows.
   
 Takes into consideration the ratings of movies/TV shows you've watched. 
