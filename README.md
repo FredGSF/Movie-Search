@@ -4,7 +4,7 @@
      
 ## Key points:         
    
-Works for both movies and TV shows.   
+Works for both movies and TV shows.    
      
 Takes into consideration the ratings of movies/TV shows you've watched.  
   
